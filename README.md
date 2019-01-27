@@ -13,4 +13,6 @@ The web project can be deployed on any server or on the file system
 
 ## How to contribute
 
+create the pull request and start contibuting
+
 ### Copyright
