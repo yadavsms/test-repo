@@ -15,4 +15,8 @@ The web project can be deployed on any server or on the file system.and validate
 
 create the pull request and start contibuting
 
+Adding new line to test PR based deployment
+
+Another line to trigger
+
 ### Copyright
