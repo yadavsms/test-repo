@@ -22,4 +22,6 @@ Another line to trigger 3
 Adding new PR 2
 Adding new PR 3 to test
 
+Adding new PR 4 to test
+
 ### Copyright
